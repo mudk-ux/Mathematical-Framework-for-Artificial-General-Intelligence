@@ -108,9 +108,9 @@ If you use this work in your research, please cite:
 @incollection{mudkey2024mmai,
   title={Steps Toward Artificial General Intelligence: A Mathematical Encoding of Synthetic Intelligence},
   author={Mudkey, Nishanth},
-  booktitle={Artificial Intelligence - Recent Advances and New Frontiers},
+  booktitle={Applied Intelligence - Recent Advances and New Frontiers},
   publisher={IntechOpen},
-  year={2024},
+  year={2025},
   note={Accepted for publication}
 }
 ```
