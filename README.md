@@ -105,7 +105,7 @@ This framework has potential applications in:
 If you use this work in your research, please cite:
 
 ```bibtex
-@incollection{mudkey2024mmai,
+@incollection{mudkey2025mmai,
   title={Steps Toward Artificial General Intelligence: A Mathematical Encoding of Synthetic Intelligence},
   author={Mudkey, Nishanth},
   booktitle={Applied Intelligence - Recent Advances and New Frontiers},
