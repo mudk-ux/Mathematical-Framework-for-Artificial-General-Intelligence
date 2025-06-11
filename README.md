@@ -106,7 +106,7 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @incollection{mudkey2024mmai,
-  title={Steps Towards Artificial General Intelligence: A Mathematical Encoding of Synthetic Intelligence},
+  title={Steps Toward Artificial General Intelligence: A Mathematical Encoding of Synthetic Intelligence},
   author={Mudkey, Nishanth},
   booktitle={Artificial Intelligence - Recent Advances and New Frontiers},
   publisher={IntechOpen},
