@@ -71,7 +71,7 @@ The simulation generates:
 
 ## Theoretical Foundation
 
-This implementation is based on the theoretical framework described in "Steps Towards AGI," which proposes a mathematical encoding of synthetic intelligence through:
+This implementation is based on the theoretical framework described in "Steps Toward AGI," which proposes a mathematical encoding of synthetic intelligence through:
 
 - Strategic field formation and propagation
 - Mass-action interpretation of Nash equilibrium
