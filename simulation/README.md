@@ -1,10 +1,10 @@
-# Unified Multi-Modal Adaptive Intelligence (MMAI) Simulation
+# Mass Action of the Mass Action Interpretation of Nash Equilibrium (MMAI) Simulation
 
 This unified system integrates the theoretical framework from "Steps Towards AGI" with robust simulation capabilities to study adaptive intelligence in multi-modal environments.
 
 ## Overview
 
-The unified MMAI simulation implements:
+The MMAI simulation implements:
 
 - Information Retrieval Network (IRN) for individual and collective memory
 - Strategic field representation with wave-like propagation
