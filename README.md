@@ -129,7 +129,7 @@ This project is licensed under a custom license that allows academic use while p
 
 - **Author**: Nishanth Mudkey
 - **Email**: mudkeyns@gmail.com
-- **Affiliation**: Amazon Web Services, Stevens Institute of Technology
+- **Affiliation**: Amazon Web Services
 
 ## Acknowledgments
 
